@@ -11,7 +11,7 @@ Certifique-se de ter o Node.js instalado em seu sistema antes de prosseguir. Voc
 Para começar, basta clonar este repositório e instalar as dependências:
 
 ```bash
-git clone https://github.com/seu-usuario/conversor-de-imagens.git
+git clone https://github.com/CarlosAndre147/webp-converter
 cd conversor-de-imagens
 npm install
 ```
