@@ -12,7 +12,7 @@ Para começar, basta clonar este repositório e instalar as dependências:
 
 ```bash
 git clone https://github.com/CarlosAndre147/webp-converter
-cd conversor-de-imagens
+cd webp-converter
 npm install
 ```
 
